@@ -1,0 +1,12 @@
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\bin\Debug\UserName.exe.config
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\bin\Debug\UserName.exe
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\bin\Debug\UserName.pdb
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\obj\Debug\UserName.csproj.AssemblyReference.cache
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\obj\Debug\UserName.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\obj\Debug\UserName.Form1.resources
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\obj\Debug\UserName.FormLogin.resources
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\obj\Debug\UserName.Properties.Resources.resources
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\obj\Debug\UserName.csproj.GenerateResource.cache
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\obj\Debug\UserName.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\obj\Debug\UserName.exe
+C:\Users\Kevin Raymundo\source\repos\UserName\UserName\obj\Debug\UserName.pdb
